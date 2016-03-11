@@ -1,0 +1,28 @@
+name: Stillman
+favicon: null
+layout_spectrum: 0.08102098433300853
+typography_spectrum: 0.8338654602412134
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5596423810347915
+  lightness: 0.3826109378132969
+  saturation: 0.4117197347804904
+  rhythmicContrast: 0.2842860782984644
+purpose: []
